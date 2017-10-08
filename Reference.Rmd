@@ -1,0 +1,11 @@
+---
+title: "Reference"
+author: "Jie Yang"
+date: "October 8, 2017"
+output: html_document
+---
+Here are the useful reference to finish this assignment
+
+*https://github.com/cardiomoon/RepData_PeerAssessment1/blob/master/PA1_template.Rmd*
+*https://github.com/hamelsmu/RepData_PeerAssessment1/blob/master/PA1_template.Rmd*
+*https://github.com/dlaird/CDSS5-RepData_PeerAssessment1/blob/master/PA1_template.Rmd*
